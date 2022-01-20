@@ -23,7 +23,7 @@ Tabela de conteúdos
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+###Clonando Repositóro 
 
 ```bash
 # Clone este repositório
@@ -38,14 +38,12 @@ $ cd server
 # Instale as dependências
 $ npm install
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+$ npm run start
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+# O servidor inciará na porta:3000 - acesse <http://localhost:3003>
 ```
 
-   * [Autentication](#testes)
-   * Form de Cadastro
-   *  form de Login do google
+  
    * [Tecnologias](#tecnologias)
    * Redux
    * React
